@@ -1,8 +1,10 @@
+import * as Style from './styles'
+
 function Main() {
   return (
-    <main>
+    <Style.Wrapper>
       <h1>React Aula</h1>
-    </main>
+    </Style.Wrapper>
   )
 }
 
