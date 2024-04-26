@@ -18,6 +18,7 @@ export default function RootLayout({
 }) {
 
   const foo = "bar";
+  const foo2 = "bar";
   return (
     <html lang="en">
       <body className={inter.className}>
